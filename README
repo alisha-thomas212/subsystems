@@ -1,0 +1,18 @@
+# Project 1 README File
+----------------------------------------------------------------
+
+Name: Alisha Thomas
+
+
+## Description of Program
+
+This program manages subsystems and collections of subsystems with efficiency. It has a command line interface to perform five different operations on subsystems: adding, printing, updating, removing, and filtering, in addition to exiting the program.
+
+## User Instructions 
+[1] Compile program by gcc -o proj ./main.c subsys.c subsys_collection.c in terminal
+[2] When starting the program, terminal presents the menu
+[3] Select a menu option
+[4] Input data depending on the menu option selected 
+[5] Menu will pop up in terminal and can repeat steps 1 to 4
+[6] Exit program by typing in 0 when menu options are presented
+
